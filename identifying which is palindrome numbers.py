@@ -14,8 +14,8 @@ print('\nIN REVERSED: ', check_num)
 
 #function to define if the given is palidrome number
 if define_integers == check_num:
-    print('\nThe given numerical is', check_num, 'and it is defines as apalidrome number\n')
+    print('\nThe given reversed numerical is', check_num, 'and it is defines as palidrome number\n')
 
 #function to define if the given is not palidrome number 
 else :
-    print('\nThe given numerical is', check_num, 'and it is defines as not palidrome number.\n')
+    print('\nThe given reversed numerical is', check_num, 'and it is defines as not palidrome number.\n')
