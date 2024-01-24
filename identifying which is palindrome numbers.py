@@ -1,0 +1,2 @@
+#adding up some title
+print('CHECK WHICH IS PALINDROME AND NOT IN THE GIVEN NUMBER')
