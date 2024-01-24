@@ -12,10 +12,10 @@ define_integers = str(digital)
 check_num = define_integers[::-1]
 print('\nIN REVERSED: ', check_num)
 
-#function to define if the given is palidrome number
+#function to define if the given is a palindrome number
 if define_integers == check_num:
     print('\nThe given reversed numerical is', check_num, 'and it is defines as palindrome number\n')
 
-#function to define if the given is not palidrome number 
+#function to define if the given is not a palindrome number 
 else :
     print('\nThe given reversed numerical is', check_num, 'and it is defines as not palindrome number.\n')
