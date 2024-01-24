@@ -7,3 +7,7 @@ print('GIVEN =', digital)
 
 #it defines the given 
 define_integers = str(digital)
+
+#it display the reversed number
+check_num = define_integers[::-1]
+print('\nIN REVERSED: ', check_num)
